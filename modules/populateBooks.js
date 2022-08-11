@@ -13,7 +13,7 @@ export const populateBooks = (books) => {
         tagName: 'p',
         textContent: `"${book.title}" by ${book.author}`,
         class: 'title',
-      })
+      }),
     );
     wrapper.appendChild(
       utils.createElement({
@@ -21,7 +21,7 @@ export const populateBooks = (books) => {
         type: 'button',
         class: 'remove',
         textContent: 'Remove',
-      })
+      }),
     );
     div.appendChild(wrapper);
   });
