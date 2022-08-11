@@ -11,11 +11,11 @@
 
 ## Live Demo
 
-[Live Demo Link](https://bucureva87.github.io/awsome-books-modules/)
+[Live Demo Link](https://bucureva87.github.io/awesome-books-modules/)
 
 ## Live Preview
 
-![Live Preview](https://postimg.cc/QHr34M6D)
+![Live Preview](https://i.postimg.cc/xTX1dJMX/Screenshot-from-2022-08-11-15-05-10.png)
 
 ## Authors
 
