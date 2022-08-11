@@ -18,4 +18,4 @@ class Books {
   }
 }
 
-export const books = new Books();
+export default new Books();

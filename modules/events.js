@@ -1,5 +1,5 @@
 import utils from './utils.js';
-import { books } from './Books.js';
+import books from './Books.js';
 import { displayContainer, populateBooks } from './populateBooks.js';
 
 export const addRemoveEvents = () => {

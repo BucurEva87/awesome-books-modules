@@ -1,4 +1,4 @@
-import { resolveDate } from './modules/time.js';
+import resolveDate from './modules/time.js';
 import {
   addRemoveEvents,
   addSubmitEvent,

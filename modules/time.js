@@ -1,7 +1,7 @@
 import { DateTime } from '../node_modules/luxon/src/luxon.js';
 import utils from './utils.js';
 
-export const resolveDate = () => {
+export default resolveDate = () => {
   const now = DateTime.now();
 
   utils.qs('header > p').textContent = `${now.toLocaleString(
