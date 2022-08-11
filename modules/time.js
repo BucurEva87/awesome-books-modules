@@ -5,6 +5,6 @@ export default resolveDate = () => {
   const now = DateTime.now();
 
   utils.qs('header > p').textContent = `${now.toLocaleString(
-    DateTime.DATETIME_MED
+    DateTime.DATETIME_MED,
   )}`;
 };
