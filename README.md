@@ -9,9 +9,13 @@
 - HTML, CSS, JavaScript
 - Luxon
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://bucureva87.github.io/awsome-books-modules/)
+
+## Live Preview
+
+![Live Preview](https://postimg.cc/QHr34M6D)
 
 ## Authors
 
