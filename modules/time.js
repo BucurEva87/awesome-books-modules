@@ -1,4 +1,4 @@
-import { DateTime } from '../luxon';
+import { DateTime } from './luxon.js';
 import utils from './utils.js';
 
 export default () => {
