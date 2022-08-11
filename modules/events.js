@@ -50,7 +50,7 @@ export const addClickEvents = () => {
 
     const index = Array.prototype.indexOf.call(
       target.parentNode.parentNode.children,
-      target.parentNode
+      target.parentNode,
     );
     utils.qsa('.pages section').forEach((e, i) => {
       if (i === index) {
